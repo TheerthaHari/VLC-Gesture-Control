@@ -1,0 +1,9 @@
+pyautogui
+pycaw
+comtypes
+opencv-python
+mediapipe
+typesense
+python-vlc
+numpy
+
